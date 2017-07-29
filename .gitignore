@@ -12,6 +12,9 @@ local.properties
 .loadpath
 .recommenders
 
+# Compiled class file
+*.class
+
 # Eclipse Core
 .project
 
